@@ -1,0 +1,16 @@
+
+*.iml
+*.idea/
+*.settings/
+out/
+bin/
+target/
+build/
+*.log
+*.ipr
+*.iws
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
